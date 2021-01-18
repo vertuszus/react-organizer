@@ -13,6 +13,7 @@ function App() {
     <AlertState>
     <BrowserRouter>
     <Navbar />
+    //тест
     <div className="container pt-4">
       <Alert />
       <Switch>
